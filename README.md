@@ -79,6 +79,8 @@ This project template can be adapted for:
 - **Telecom**: Service cancellation forecasting
 - **Healthcare**: Patient retention analysis
 
+Project Link:https://www.kaggle.com/code/srushtivbhoi/finance-analysis
+
  🚀 Future Enhancements
 
 - [ ] Real-time prediction API (Flask/FastAPI)
